@@ -6,34 +6,57 @@
 
   <!-- Page d'accueil -->
   <url>
-    <loc>https://debouchage-canalisation-colomiers.fr/</loc>
-    <lastmod>2026-02-03</lastmod>
+    <loc>https://debouchage-canalisation-tournefeuille.fr/</loc>
+    <lastmod>2026-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
   <!-- Page Contact -->
   <url>
-    <loc>https://debouchage-canalisation-colomiers.fr/contact.html</loc>
-    <lastmod>2026-02-03</lastmod>
+    <loc>https://debouchage-canalisation-tournefeuille.fr/contact.html</loc>
+    <lastmod>2026-02-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <!-- Mentions légales -->
   <url>
-    <loc>https://debouchage-canalisation-colomiers.fr/mentions-legales.html</loc>
-    <lastmod>2026-02-03</lastmod>
+    <loc>https://debouchage-canalisation-tournefeuille.fr/mentions-legales.html</loc>
+    <lastmod>2026-02-04</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
 
   <!-- Politique de confidentialité -->
   <url>
-    <loc>https://debouchage-canalisation-colomiers.fr/politique-confidentialite.html</loc>
-    <lastmod>2026-02-03</lastmod>
+    <loc>https://debouchage-canalisation-tournefeuille.fr/politique-confidentialite.html</loc>
+    <lastmod>2026-02-04</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
+  </url>
+<!-- Page Débouchage Canalisations -->
+  <url>
+    <loc>https://debouchage-canalisation-tournefeuille.fr/debouchage-canalisations.html</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Page Curage Canalisations -->
+  <url>
+    <loc>https://debouchage-canalisation-tournefeuille.fr/curage-canalisations.html</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Page Inspection Vidéo -->
+  <url>
+    <loc>https://debouchage-canalisation-tournefeuille.fr/inspection-video-canalisations.html</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
   </url>
 
 </urlset>

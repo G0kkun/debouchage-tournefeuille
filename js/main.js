@@ -43,10 +43,10 @@ document.addEventListener('DOMContentLoaded', function() {
     // ===================================
     // 2. CARTE LEAFLET
     // ===================================
-    const VILLE_SLUG = 'colomiers';
-    const VILLE_NOM = 'Colomiers';
-    const GPS_LAT = 43.6107;
-    const GPS_LON = 1.3337;
+    const VILLE_SLUG = 'tournefeuille';
+    const VILLE_NOM = 'Tournefeuille';
+    const GPS_LAT = 43.5847;
+    const GPS_LON = 1.3441;
     
     const mapElement = document.getElementById(VILLE_SLUG + '-map');
     
